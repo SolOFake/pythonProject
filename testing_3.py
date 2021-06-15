@@ -12,4 +12,3 @@ class KitchenTable(Table):
 
 
 t2 = KitchenTable(1, 2, 3, 4)
-

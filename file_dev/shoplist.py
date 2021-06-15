@@ -14,5 +14,3 @@ del shoplist  # уничтожаем переменную shoplist
 with open(shoplistfile, 'rb') as f:  # режиме бинарного чтения
     storedlist = pickle.load(f)  # загружаем объект из файла
 print(storedlist)
-print(2)
-print(2)
