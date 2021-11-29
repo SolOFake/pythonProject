@@ -21,6 +21,7 @@ for eq_dict in all_eq_dicts:
     lats.append(lat)
     hover_texts.append(title)
 
+
 # Map the earthquakes.
 data = [{
     'type': 'scattergeo',
